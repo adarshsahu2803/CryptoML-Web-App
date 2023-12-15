@@ -1,4 +1,4 @@
-# CryptoML-Web-App
+# Crypto Lens: CryptoML Web App
 
 #### Project overview:
 The aim of this project is to combine blockchain data, machine learning and cloud managed services into a final product as a web app. Ethereum blockchain data is publicly available as a GCP public dataset.
